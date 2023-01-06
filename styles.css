@@ -36,3 +36,32 @@ button{
     font-size: 46px;
 }
 
+
+
+/*styling for footer*/
+
+.footer{
+    margin: 20rem 4rem 4rem 4rem
+}
+
+.footer-elements{
+    padding-top: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.footer h1{
+    font-size: 25px;
+}
+.footer h3{
+    font-size: 15px;
+}
+
+/*styling for logos*/
+
+.logo-div{
+    display: flex;
+}
+.logo-img{
+    width: 20px;
+    padding-left: 10px
+}
